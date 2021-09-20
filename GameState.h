@@ -2,7 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameStateBase.h"
-#include "NowhereGameState.generated.h"
+#include "GameState.generated.h"
 
 UCLASS()
 class NOWHERE_API AGameState : public AGameStateBase
